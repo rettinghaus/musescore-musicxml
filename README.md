@@ -62,19 +62,29 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/25888>
 * add import of breath and caesura colors
 <https://github.com/musescore/MuseScore/pull/25893>
+* add support for notehead names
+<https://github.com/musescore/MuseScore/pull/25916>
+* add full support for holes element
+<https://github.com/musescore/MuseScore/pull/25932>
+* add full support for hand bells
+<https://github.com/musescore/MuseScore/pull/25934>
+* add support for single number time signatures
+<https://github.com/musescore/MuseScore/pull/26111>
 * add support for line styles of slides
 <https://github.com/musescore/MuseScore/pull/26559>
 * read non-arpeggiate color
 <https://github.com/musescore/MuseScore/pull/26773>
-* add support for guitar tap
-<https://github.com/musescore/MuseScore/pull/26855>
 * add support for staff line details
 <https://github.com/musescore/MuseScore/pull/26472>
 <https://github.com/musescore/MuseScore/pull/26856>
+* export Bezier points for slurs
+<https://github.com/musescore/MuseScore/pull/26568>
 * extend metadata support
 <https://github.com/musescore/MuseScore/pull/26770>
 * add guitar golpe and brass half-muted indications to import
 <https://github.com/musescore/MuseScore/pull/26771>
+* add support for guitar tap
+<https://github.com/musescore/MuseScore/pull/26855>
 * full support for hook endings on dashed lines
 <https://github.com/musescore/MuseScore/pull/19455>
 <https://github.com/musescore/MuseScore/pull/26876>
