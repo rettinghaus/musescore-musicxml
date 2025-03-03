@@ -62,7 +62,7 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/25888>
 * add import of breath and caesura colors
 <https://github.com/musescore/MuseScore/pull/25893>
-* add support for notehead names
+* add support for notehead-text element
 <https://github.com/musescore/MuseScore/pull/25916>
 * add full support for holes element
 <https://github.com/musescore/MuseScore/pull/25932>
