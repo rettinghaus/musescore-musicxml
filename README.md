@@ -2,6 +2,8 @@
 
 ## Overview of PRs and new features
 
+https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3Aclosed+musicxml>
+
 ### For 3.x [New features from MusicXML 3.1]
 
 * add support for Gould arrow quarter tone accidentals
@@ -71,3 +73,8 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/26856>
 * extend metadata support
 <https://github.com/musescore/MuseScore/pull/26770>
+* add guitar golpe and brass half-muted indications to import
+<https://github.com/musescore/MuseScore/pull/26771>
+* full support for hook endings on dashed lines
+<https://github.com/musescore/MuseScore/pull/19455>
+<https://github.com/musescore/MuseScore/pull/26876>
