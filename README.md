@@ -32,15 +32,18 @@ https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3
 <https://github.com/musescore/MuseScore/pull/20252>
 * export all available types of trills
 <https://github.com/musescore/MuseScore/pull/20285>
+* support for group-symbol color and group-barline
+<https://github.com/musescore/MuseScore/pull/20952>
+<https://github.com/musescore/MuseScore/pull/26006>
 * add possibility to export scores in concert pitch
 <https://github.com/musescore/MuseScore/pull/21075>
-* improve export of chord symbols
+* support for chord symbol color, visibility and placement
 <https://github.com/musescore/MuseScore/pull/21362>
 * export accidentals on ornaments
 <https://github.com/musescore/MuseScore/pull/21364>
 * export changes between swing and straight rhythms
 <https://github.com/musescore/MuseScore/pull/21536>
-* add import and export of invisible lyrics
+* add support for invisible lyrics
 <https://github.com/musescore/MuseScore/pull/21561>
 * export beams starting or ending on rests
 <https://github.com/musescore/MuseScore/pull/21602>
@@ -50,11 +53,14 @@ https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3
 https://github.com/musescore/MuseScore/pull/21828
 * import and export of staff sizes
 <https://github.com/musescore/MuseScore/pull/22154>
+* add support for part-name-display
+<https://github.com/musescore/MuseScore/pull/22322>
 * properly export Nashville numbers and Roman numerals
 <https://github.com/musescore/MuseScore/pull/24174>
 * export tempo as system text
 <https://github.com/musescore/MuseScore/pull/25312>
-* export instrument changes
+* export all instrument changes
+<https://github.com/musescore/MuseScore/pull/24932>
 <https://github.com/musescore/MuseScore/pull/25615>
 * extend support of notations
 <https://github.com/musescore/MuseScore/pull/25869>
@@ -64,6 +70,7 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/25893>
 * add support for notehead-text element
 <https://github.com/musescore/MuseScore/pull/25916>
+<https://github.com/musescore/MuseScore/pull/26911>
 * add full support for holes element
 <https://github.com/musescore/MuseScore/pull/25932>
 * add full support for hand bells
