@@ -95,3 +95,7 @@ https://github.com/musescore/MuseScore/pull/21828
 * full support for hook endings on dashed lines
 <https://github.com/musescore/MuseScore/pull/19455>
 <https://github.com/musescore/MuseScore/pull/26876>
+* export correct bpm for "a tempo" and "tempo primo"
+<https://github.com/musescore/MuseScore/pull/26927>
+* import feathered beams
+<https://github.com/musescore/MuseScore/pull/26990>
