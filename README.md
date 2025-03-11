@@ -91,6 +91,8 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/26856>
 * export Bezier points for slurs
 <https://github.com/musescore/MuseScore/pull/26568>
+* add positioning attributes to breath marks, fingerings and articulations
+<https://github.com/musescore/MuseScore/pull/26723>
 * extend metadata support
 <https://github.com/musescore/MuseScore/pull/26770>
 * add guitar golpe and brass half-muted indications to import
