@@ -17,9 +17,12 @@ https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3
 <https://github.com/musescore/MuseScore/pull/17300>
 * extended export of key accidentals (e.g. Persian)
 <https://github.com/musescore/MuseScore/pull/18540>
-
-* add extended support for colors 
+* add extended support for colors
 <https://github.com/musescore/MuseScore/pull/19132>
+<https://github.com/musescore/MuseScore/pull/20952>
+<https://github.com/musescore/MuseScore/pull/21433>
+<https://github.com/musescore/MuseScore/pull/25893>
+<https://github.com/musescore/MuseScore/pull/26006>
 * export for all supported SMuFL noteheads
 <https://github.com/musescore/MuseScore/pull/19506>
 * add import of fermatas on bar lines
@@ -51,10 +54,12 @@ https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3
 <https://github.com/musescore/MuseScore/pull/21772>
 * add export of harp pedals
 https://github.com/musescore/MuseScore/pull/21828
-* import and export of staff sizes
+* add support for staff sizes
 <https://github.com/musescore/MuseScore/pull/22154>
 * add support for part-name-display
 <https://github.com/musescore/MuseScore/pull/22322>
+* improve import of invisible notes
+<https://github.com/musescore/MuseScore/pull/22943>
 * properly export Nashville numbers and Roman numerals
 <https://github.com/musescore/MuseScore/pull/24174>
 * export tempo as system text
@@ -90,6 +95,8 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/26770>
 * add guitar golpe and brass half-muted indications to import
 <https://github.com/musescore/MuseScore/pull/26771>
+* align import and export of natural harmonics glyph
+<https://github.com/musescore/MuseScore/pull/26801>
 * add support for guitar tap
 <https://github.com/musescore/MuseScore/pull/26855>
 * full support for hook endings on dashed lines
