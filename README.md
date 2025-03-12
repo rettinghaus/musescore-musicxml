@@ -44,8 +44,9 @@ https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3
 <https://github.com/musescore/MuseScore/pull/21362>
 * export accidentals on ornaments
 <https://github.com/musescore/MuseScore/pull/21364>
-* export changes between swing and straight rhythms
+* add support for changes between swing and straight rhythms
 <https://github.com/musescore/MuseScore/pull/21536>
+<https://github.com/musescore/MuseScore/pull/27040>
 * add support for invisible lyrics
 <https://github.com/musescore/MuseScore/pull/21561>
 * export beams starting or ending on rests
