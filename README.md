@@ -13,8 +13,9 @@ https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3
 
 ### For 4.x
 
-* export turn with slash
+* add support for turn with slash
 <https://github.com/musescore/MuseScore/pull/17300>
+<https://github.com/musescore/MuseScore/pull/27412>
 * extended export of key accidentals (e.g. Persian)
 <https://github.com/musescore/MuseScore/pull/18540>
 * add extended support for colors
@@ -77,6 +78,8 @@ https://github.com/musescore/MuseScore/pull/21828
 * add support for notehead-text element
 <https://github.com/musescore/MuseScore/pull/25916>
 <https://github.com/musescore/MuseScore/pull/26911>
+* import ornaments as ornament objects
+<https://github.com/musescore/MuseScore/pull/25870>
 * add full support for holes element
 <https://github.com/musescore/MuseScore/pull/25932>
 * add full support for hand bells
@@ -109,3 +112,7 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/26927>
 * import feathered beams
 <https://github.com/musescore/MuseScore/pull/26990>
+* add support for invisible notations
+<https://github.com/musescore/MuseScore/pull/27422>
+* add import of shake element
+<https://github.com/musescore/MuseScore/pull/27426>
