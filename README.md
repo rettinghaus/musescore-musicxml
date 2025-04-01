@@ -2,7 +2,7 @@
 
 ## Overview of PRs and new features
 
-https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3Aclosed+musicxml>
+<https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3Aclosed+musicxml>
 
 ### For 3.x [New features from MusicXML 3.1]
 
@@ -112,6 +112,10 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/26927>
 * import feathered beams
 <https://github.com/musescore/MuseScore/pull/26990>
+* add support fret diagram color
+<https://github.com/musescore/MuseScore/pull/27384>
+* add support for accidental size
+<https://github.com/musescore/MuseScore/pull/27387>
 * add support for invisible notations
 <https://github.com/musescore/MuseScore/pull/27422>
 * add import of shake element
