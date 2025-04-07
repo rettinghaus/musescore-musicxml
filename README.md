@@ -24,6 +24,7 @@
 <https://github.com/musescore/MuseScore/pull/21433>
 <https://github.com/musescore/MuseScore/pull/25893>
 <https://github.com/musescore/MuseScore/pull/26006>
+<https://github.com/musescore/MuseScore/pull/27571>
 * export for all supported SMuFL noteheads
 <https://github.com/musescore/MuseScore/pull/19506>
 * add import of fermatas on bar lines
