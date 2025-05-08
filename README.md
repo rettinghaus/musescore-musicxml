@@ -121,3 +121,11 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/27422>
 * add import of shake element
 <https://github.com/musescore/MuseScore/pull/27426>
+* add export of invisible tempo changes
+<https://github.com/musescore/MuseScore/pull/27538>
+* add support for layout of rehearsal marks
+<https://github.com/musescore/MuseScore/pull/27679>
+* add limited support of part name color and visibility
+<https://github.com/musescore/MuseScore/pull/27843>
+* extend semantic encoding of technical symbols
+<https://github.com/musescore/MuseScore/pull/27919>
