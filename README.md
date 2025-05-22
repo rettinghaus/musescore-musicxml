@@ -129,3 +129,5 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/27843>
 * extend semantic encoding of technical symbols
 <https://github.com/musescore/MuseScore/pull/27919>
+* improve tempo import from Dorico
+<https://github.com/musescore/MuseScore/pull/28052>
