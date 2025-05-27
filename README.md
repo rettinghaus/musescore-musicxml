@@ -62,8 +62,9 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/21602>
 * fixed invalid MusicXML with empty figured bass
 <https://github.com/musescore/MuseScore/pull/21772>
-* add export of harp pedals
-https://github.com/musescore/MuseScore/pull/21828
+* add support for harp pedals
+<https://github.com/musescore/MuseScore/pull/21828>
+<https://github.com/musescore/MuseScore/pull/28169>
 * add support for staff sizes
 <https://github.com/musescore/MuseScore/pull/22154>
 * add support for part-name-display
