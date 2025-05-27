@@ -1,8 +1,15 @@
 # MuseScore MusicXML project
 
+This project aims to develop MuseScore Studio further into a feature complete MusicXML editor.
+
 ## Overview of PRs and new features
 
-<https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+is%3Aclosed+musicxml>
+You can get a full overview of all connected pull requests that have been opened to [upstream MuseScore Studio](https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+MusicXML).
+You will find more branches in active development on [my fork](https://github.com/rettinghaus/MuseScore).
+
+I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pulls?q=is%3Apr+author%3Arettinghaus+MEI) of MuseScore Studio.
+
+## List of features, improvements, and fixes
 
 ### For 3.x [New features from MusicXML 3.1]
 
