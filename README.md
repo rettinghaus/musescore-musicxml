@@ -131,3 +131,5 @@ https://github.com/musescore/MuseScore/pull/21828
 <https://github.com/musescore/MuseScore/pull/27919>
 * improve tempo import from Dorico
 <https://github.com/musescore/MuseScore/pull/28052>
+* allow export of text time signatures
+<https://github.com/musescore/MuseScore/pull/28156>
