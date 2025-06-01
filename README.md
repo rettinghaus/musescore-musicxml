@@ -141,3 +141,5 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/28052>
 * allow export of text time signatures
 <https://github.com/musescore/MuseScore/pull/28156>
+* export tremolo bar symbols
+<https://github.com/musescore/MuseScore/pull/28170>
