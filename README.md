@@ -142,3 +142,33 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/28156>
 * export tremolo bar symbols
 <https://github.com/musescore/MuseScore/pull/28170>
+* add support for hairpin style
+<https://github.com/musescore/MuseScore/pull/28221>
+
+## list of newly supported elements
+
+* [`<accidental-mark>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/accidental-mark/)
+* [`<appearance>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/appearance/)
+* [`<concert-score>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/concert-score/appearance/)
+* [`<first>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/first/)
+* [`<golpe>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/golpe/)
+* [`<group-barline>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/group-barline/)
+* [`<harmon-mute>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/harmon-mute/)
+* [`<harp-pedals>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/harp-pedals/)
+* [`<hole>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/hole/)
+* [`<instrument-change>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/instrument-change/)
+* [`<line-detail>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/line-detail/)
+* [`<miscellaneous>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/miscellaneous/)
+* [`<mute>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/mute/)
+* [`<notehead-text>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/notehead-text/)
+* [`<numeral>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/numeral/)
+* [`<part-name-display>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/part-name-display/)
+* [`<part-abbreviation-display>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/part-abbreviation-display/)
+* [`<play>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/play/)
+* [`<second>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/second/)
+* [`<staff-size>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/staff-size/)
+* [`<straight>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/straight/)
+* [`<swing>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/swing/)
+* [`<swing-type>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/swing-type/)
+* [`<system-dividers>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/system-dividers/)
+* [`<with-bar>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/with-bar/)
