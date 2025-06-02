@@ -31,9 +31,12 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/21433>
 <https://github.com/musescore/MuseScore/pull/25893>
 <https://github.com/musescore/MuseScore/pull/26006>
+<https://github.com/musescore/MuseScore/pull/27384>
 <https://github.com/musescore/MuseScore/pull/27571>
 * export for all supported SMuFL noteheads
 <https://github.com/musescore/MuseScore/pull/19506>
+* add support for system dividers and appearance
+<https://github.com/musescore/MuseScore/pull/19696>
 * add import of fermatas on bar lines
 <https://github.com/musescore/MuseScore/pull/20213>
 * add support for sostenuto pedal
@@ -119,8 +122,6 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/26927>
 * import feathered beams
 <https://github.com/musescore/MuseScore/pull/26990>
-* add support fret diagram color
-<https://github.com/musescore/MuseScore/pull/27384>
 * add support for accidental size
 <https://github.com/musescore/MuseScore/pull/27387>
 * add support for invisible notations
