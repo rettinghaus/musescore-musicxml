@@ -143,6 +143,8 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/28170>
 * add support for hairpin style
 <https://github.com/musescore/MuseScore/pull/28221>
+* improve tab clef handling
+<https://github.com/musescore/MuseScore/pull/28231>
 
 ## List of newly supported elements
 
