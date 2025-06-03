@@ -175,6 +175,7 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 * [`<part-abbreviation-display>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/part-abbreviation-display/)
 * [`<play>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/play/)
 * [`<second>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/second/)
+* [`<source>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/source/)
 * [`<staff-size>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/staff-size/)
 * [`<straight>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/straight/)
 * [`<swing>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/swing/)
