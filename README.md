@@ -145,7 +145,9 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 * add support for hairpin style
 <https://github.com/musescore/MuseScore/pull/28221>
 
-## list of newly supported elements
+## List of newly supported elements
+
+Here is a list of those elements for which support has now been added.
 
 * [`<accidental-mark>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/accidental-mark/)
 * [`<appearance>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/appearance/)
