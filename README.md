@@ -166,6 +166,7 @@ Here is a list of those elements for which support has now been added.
 * [`<measure-distance>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/measure-distance/)
 * [`<measure-layout>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/measure-layout/)
 * [`<miscellaneous>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/miscellaneous/)
+* [`<music-font>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/music-font/)
 * [`<mute>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/mute/)
 * [`<note-size>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/note-size/)
 * [`<notehead-text>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/notehead-text/)
@@ -182,4 +183,5 @@ Here is a list of those elements for which support has now been added.
 * [`<swing>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/swing/)
 * [`<swing-type>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/swing-type/)
 * [`<system-dividers>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/system-dividers/)
+* [`<tap>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/tap/)
 * [`<with-bar>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/with-bar/)
