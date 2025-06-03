@@ -20,17 +20,18 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 
 ### For 4.x
 
-* add support for turn with slash
+* add support for turn with slash  
 <https://github.com/musescore/MuseScore/pull/17300>
 <https://github.com/musescore/MuseScore/pull/27412>
 * extended export of key accidentals (e.g. Persian)
 <https://github.com/musescore/MuseScore/pull/18540>
-* add extended support for colors
+* add extended support for colors  
 <https://github.com/musescore/MuseScore/pull/19132>
 <https://github.com/musescore/MuseScore/pull/20952>
 <https://github.com/musescore/MuseScore/pull/21433>
 <https://github.com/musescore/MuseScore/pull/25893>
 <https://github.com/musescore/MuseScore/pull/26006>
+<https://github.com/musescore/MuseScore/pull/26773>
 <https://github.com/musescore/MuseScore/pull/27384>
 <https://github.com/musescore/MuseScore/pull/27571>
 * export for all supported SMuFL noteheads
@@ -47,7 +48,7 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/20252>
 * export all available types of trills
 <https://github.com/musescore/MuseScore/pull/20285>
-* support for group-symbol color and group-barline
+* support for group-symbol color and group-barline  
 <https://github.com/musescore/MuseScore/pull/20952>
 <https://github.com/musescore/MuseScore/pull/26006>
 * add possibility to export scores in concert pitch
@@ -56,7 +57,7 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/21362>
 * export accidentals on ornaments
 <https://github.com/musescore/MuseScore/pull/21364>
-* add support for changes between swing and straight rhythms
+* add support for changes between swing and straight rhythms  
 <https://github.com/musescore/MuseScore/pull/21536>
 <https://github.com/musescore/MuseScore/pull/27040>
 * add support for invisible lyrics
@@ -65,7 +66,7 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/21602>
 * fixed invalid MusicXML with empty figured bass
 <https://github.com/musescore/MuseScore/pull/21772>
-* add support for harp pedals
+* add support for harp pedals  
 <https://github.com/musescore/MuseScore/pull/21828>
 <https://github.com/musescore/MuseScore/pull/28169>
 * add support for staff sizes
@@ -78,14 +79,14 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/24174>
 * export tempo as system text
 <https://github.com/musescore/MuseScore/pull/25312>
-* export all instrument changes
+* export all instrument changes  
 <https://github.com/musescore/MuseScore/pull/24932>
 <https://github.com/musescore/MuseScore/pull/25615>
 * extend support of notations
 <https://github.com/musescore/MuseScore/pull/25869>
 * add full support for Harmon mute symbols
 <https://github.com/musescore/MuseScore/pull/25888>
-* add support for notehead-text element
+* add support for notehead-text element  
 <https://github.com/musescore/MuseScore/pull/25916>
 <https://github.com/musescore/MuseScore/pull/26911>
 * import ornaments as ornament objects
@@ -98,9 +99,7 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/26111>
 * add support for line styles of slides
 <https://github.com/musescore/MuseScore/pull/26559>
-* read non-arpeggiate color
-<https://github.com/musescore/MuseScore/pull/26773>
-* add support for staff line details
+* add support for staff line details  
 <https://github.com/musescore/MuseScore/pull/26472>
 <https://github.com/musescore/MuseScore/pull/26856>
 * export Bezier points for slurs
@@ -115,7 +114,7 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/26801>
 * add support for guitar tap
 <https://github.com/musescore/MuseScore/pull/26855>
-* full support for hook endings on dashed lines
+* full support for hook endings on dashed lines  
 <https://github.com/musescore/MuseScore/pull/19455>
 <https://github.com/musescore/MuseScore/pull/26876>
 * export correct bpm for "a tempo" and "tempo primo"
