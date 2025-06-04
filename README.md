@@ -145,6 +145,8 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/28221>
 * improve tab clef handling
 <https://github.com/musescore/MuseScore/pull/28231>
+* add support for hammer-on and pull-off
+<https://github.com/musescore/MuseScore/pull/28251>
 
 ## List of newly supported elements
 
@@ -156,6 +158,7 @@ Here is a list of those elements for which support has now been added.
 * [`<first>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/first/)
 * [`<golpe>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/golpe/)
 * [`<group-barline>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/group-barline/)
+* [`<hammer-on>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/hammer-on/)
 * [`<handbell>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/handbell/)
 * [`<harmon-closed>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/harmon-closed/)
 * [`<harmon-mute>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/harmon-mute/)
@@ -180,6 +183,7 @@ Here is a list of those elements for which support has now been added.
 * [`<part-name-display>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/part-name-display/)
 * [`<part-abbreviation-display>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/part-abbreviation-display/)
 * [`<play>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/play/)
+* [`<pull-of>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/pull-of/)
 * [`<right-divider>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/right-divider/)
 * [`<second>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/second/)
 * [`<source>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/source/)
