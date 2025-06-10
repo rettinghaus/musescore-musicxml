@@ -108,6 +108,7 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/26723>
 * extend metadata support
 <https://github.com/musescore/MuseScore/pull/26770>
+<https://github.com/musescore/MuseScore/pull/28333>
 * add guitar golpe and brass half-muted indications to import
 <https://github.com/musescore/MuseScore/pull/26771>
 * align import and export of natural harmonics glyph
@@ -147,6 +148,8 @@ I also contribute to the [MEI support](https://github.com/musescore/MuseScore/pu
 <https://github.com/musescore/MuseScore/pull/28231>
 * add support for hammer-on and pull-off
 <https://github.com/musescore/MuseScore/pull/28251>
+* add support for time signatures across staves
+<https://github.com/musescore/MuseScore/pull/28334>
 
 ## List of newly supported elements
 
@@ -155,9 +158,11 @@ Here is a list of those elements for which support has now been added.
 * [`<accidental-mark>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/accidental-mark/)
 * [`<appearance>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/appearance/)
 * [`<concert-score>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/concert-score/appearance/)
+* [`<encoder>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/encoder/)
 * [`<first>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/first/)
 * [`<golpe>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/golpe/)
 * [`<group-barline>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/group-barline/)
+* [`<group-time>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/group-time/)
 * [`<hammer-on>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/hammer-on/)
 * [`<handbell>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/handbell/)
 * [`<harmon-closed>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/harmon-closed/)
