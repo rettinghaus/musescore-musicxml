@@ -116,6 +116,7 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/26801>
 * add support for guitar tap
 <https://github.com/musescore/MuseScore/pull/26855>
+<https://github.com/musescore/MuseScore/pull/29003>
 * full support for hook endings on dashed lines  
 <https://github.com/musescore/MuseScore/pull/19455>
 <https://github.com/musescore/MuseScore/pull/26876>
