@@ -146,7 +146,7 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/28170>
 * add support for hairpin style
 <https://github.com/musescore/MuseScore/pull/28221>
-* improve tab clef handling
+* improve tab and percussion clef handling
 <https://github.com/musescore/MuseScore/pull/28231>
 * add support for hammer-on and pull-off
 <https://github.com/musescore/MuseScore/pull/28251>
