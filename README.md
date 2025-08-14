@@ -152,6 +152,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/28251>
 * add support for time signatures across staves
 <https://github.com/musescore/MuseScore/pull/28334>
+* import string-mute element
+<https://github.com/musescore/MuseScore/pull/29263>
 
 ## List of newly supported elements
 
@@ -197,6 +199,7 @@ Here is a list of those elements for which support has now been added.
 * [`<staff-size>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/staff-size/)
 * [`<staff-type>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/staff-type/)
 * [`<straight>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/straight/)
+* [`<string-mute>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/string-mute/)
 * [`<swing>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/swing/)
 * [`<swing-type>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/swing-type/)
 * [`<system-dividers>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/system-dividers/)
