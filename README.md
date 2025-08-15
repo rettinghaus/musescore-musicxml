@@ -154,6 +154,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/28334>
 * import string-mute element
 <https://github.com/musescore/MuseScore/pull/29263>
+* improve logic for visibitlity of lyrics
+<https://github.com/musescore/MuseScore/pull/29277>
 
 ## List of newly supported elements
 
