@@ -156,6 +156,10 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/29263>
 * improve logic for visibitlity of lyrics
 <https://github.com/musescore/MuseScore/pull/29277>
+* add export of polychords
+<https://github.com/musescore/MuseScore/pull/29362>
+* add support for text articulations
+<https://github.com/musescore/MuseScore/pull/29447>
 
 ## List of newly supported elements
 
