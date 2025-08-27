@@ -83,6 +83,7 @@ You will find more branches in active development on [my fork](https://github.co
 * export all instrument changes  
 <https://github.com/musescore/MuseScore/pull/24932>
 <https://github.com/musescore/MuseScore/pull/25615>
+<https://github.com/musescore/MuseScore/pull/29540>
 * extend support of notations
 <https://github.com/musescore/MuseScore/pull/25869>
 * add full support for Harmon mute symbols
