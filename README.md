@@ -35,6 +35,7 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/26773>
 <https://github.com/musescore/MuseScore/pull/27384>
 <https://github.com/musescore/MuseScore/pull/27571>
+<https://github.com/musescore/MuseScore/pull/29577>
 * export for all supported SMuFL noteheads
 <https://github.com/musescore/MuseScore/pull/19506>
 * add support for system dividers and appearance
