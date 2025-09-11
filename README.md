@@ -162,6 +162,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/29362>
 * add support for text articulations
 <https://github.com/musescore/MuseScore/pull/29447>
+* import eyeglasses element and special coda and segno glyphs
+<https://github.com/musescore/MuseScore/pull/29823>
 
 ## List of newly supported elements
 
@@ -171,6 +173,7 @@ Here is a list of those elements for which support has now been added.
 * [`<appearance>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/appearance/)
 * [`<concert-score>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/concert-score/appearance/)
 * [`<encoder>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/encoder/)
+* [`<eyeglasses>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/eyeglasses/)
 * [`<first>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/first/)
 * [`<golpe>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/golpe/)
 * [`<group-barline>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/group-barline/)
