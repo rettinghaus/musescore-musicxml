@@ -186,6 +186,7 @@ Here is a list of those elements for which support has now been added.
 * [`<hole>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/hole/)
 * [`<hole-closed>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/hole-closed/)
 * [`<instrument-change>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/instrument-change/)
+* [`<inversion>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/inversion/)
 * [`<left-divider>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/left-divider/)
 * [`<line-detail>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/line-detail/)
 * [`<line-width>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/line-width/)
