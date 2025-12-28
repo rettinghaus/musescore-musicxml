@@ -89,7 +89,9 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/25869>
 * add full support for Harmon mute symbols
 <https://github.com/musescore/MuseScore/pull/25888>
-* add support for notehead-text element  
+* improve support for notehead shapes
+<https://github.com/musescore/MuseScore/pull/31592>
+* add support for notehead-text element (notehead names)  
 <https://github.com/musescore/MuseScore/pull/25916>
 <https://github.com/musescore/MuseScore/pull/26911>
 * import ornaments as ornament objects
@@ -109,14 +111,14 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/26568>
 * add positioning attributes to breath marks, fingerings and articulations
 <https://github.com/musescore/MuseScore/pull/26723>
-* extend metadata support
+* extend metadata support  
 <https://github.com/musescore/MuseScore/pull/26770>
 <https://github.com/musescore/MuseScore/pull/28333>
 * add guitar golpe and brass half-muted indications to import
 <https://github.com/musescore/MuseScore/pull/26771>
 * align import and export of natural harmonics glyph
 <https://github.com/musescore/MuseScore/pull/26801>
-* add support for guitar tap
+* add support for guitar tap  
 <https://github.com/musescore/MuseScore/pull/26855>
 <https://github.com/musescore/MuseScore/pull/29003>
 * full support for hook endings on dashed lines  
@@ -158,7 +160,7 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/29263>
 * improve logic for visibitlity of lyrics
 <https://github.com/musescore/MuseScore/pull/29277>
-* add support for polychords
+* add support for polychords  
 <https://github.com/musescore/MuseScore/pull/29362>
 <https://github.com/musescore/MuseScore/pull/30054>
 * add support for text articulations
