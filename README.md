@@ -167,6 +167,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/29447>
 * import eyeglasses element and special coda and segno glyphs
 <https://github.com/musescore/MuseScore/pull/29823>
+* fix export of invisble jumps
+<https://github.com/musescore/MuseScore/pull/31774>
 
 ## List of newly supported elements
 
