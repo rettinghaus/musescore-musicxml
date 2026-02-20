@@ -170,6 +170,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/29823>
 * fix export of invisble jumps
 <https://github.com/musescore/MuseScore/pull/31774>
+* fix export of invisble tab notes
+<https://github.com/musescore/MuseScore/pull/32317>
 
 ## List of newly supported elements
 
