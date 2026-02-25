@@ -172,6 +172,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/31774>
 * fix export of invisble tab notes
 <https://github.com/musescore/MuseScore/pull/32317>
+* fix export of notations with diverging visibility
+<https://github.com/musescore/MuseScore/pull/32331>
 
 ## List of newly supported elements
 
