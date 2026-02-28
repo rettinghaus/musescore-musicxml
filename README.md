@@ -72,8 +72,9 @@ You will find more branches in active development on [my fork](https://github.co
 * add support for harp pedals  
 <https://github.com/musescore/MuseScore/pull/21828>
 <https://github.com/musescore/MuseScore/pull/28169>
-* add support for staff sizes
+* add support for staff sizes  
 <https://github.com/musescore/MuseScore/pull/22154>
+<https://github.com/musescore/MuseScore/pull/32402>
 * add support for part-name-display
 <https://github.com/musescore/MuseScore/pull/22322>
 * improve import of invisible notes
