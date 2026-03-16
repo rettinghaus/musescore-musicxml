@@ -175,6 +175,10 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/32317>
 * fix export of notations with diverging visibility
 <https://github.com/musescore/MuseScore/pull/32331>
+* fix export of suspended chords
+<https://github.com/musescore/MuseScore/pull/32617>
+* fix import of noteheads with parentheses
+<https://github.com/musescore/MuseScore/pull/32587>
 
 ## List of newly supported elements
 
