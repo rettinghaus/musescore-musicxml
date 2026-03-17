@@ -179,6 +179,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/32617>
 * fix import of noteheads with parentheses
 <https://github.com/musescore/MuseScore/pull/32587>
+* prefer offsets for export of wedges, pedals, and text lines
+<https://github.com/musescore/MuseScore/pull/32656>
 
 ## List of newly supported elements
 
