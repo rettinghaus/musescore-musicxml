@@ -189,6 +189,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/33264>
 * fix pedal types "discontinue" and "resume"
 <https://github.com/musescore/MuseScore/pull/33281>
+* add support for straight and wavy chord lines
+<https://github.com/musescore/MuseScore/pull/33346>
 
 ## List of newly supported elements
 
