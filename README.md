@@ -175,12 +175,20 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/32317>
 * fix export of notations with diverging visibility
 <https://github.com/musescore/MuseScore/pull/32331>
-* fix export of suspended chords
-<https://github.com/musescore/MuseScore/pull/32617>
 * fix import of noteheads with parentheses
 <https://github.com/musescore/MuseScore/pull/32587>
+* fix export of suspended chords
+<https://github.com/musescore/MuseScore/pull/32617>
+* add support for font-family on harmony
+<https://github.com/musescore/MuseScore/pull/32619>
 * prefer offsets for export of wedges, pedals, and text lines
 <https://github.com/musescore/MuseScore/pull/32656>
+* add support for line arrows
+<https://github.com/musescore/MuseScore/pull/33260>
+* fix duplicated export of text on grace notes
+<https://github.com/musescore/MuseScore/pull/33264>
+* fix pedal types "discontinue" and "resume"
+<https://github.com/musescore/MuseScore/pull/33281>
 
 ## List of newly supported elements
 
