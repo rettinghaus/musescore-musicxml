@@ -191,6 +191,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/33281>
 * add support for straight and wavy chord lines
 <https://github.com/musescore/MuseScore/pull/33346>
+* add export of images
+<https://github.com/musescore/MuseScore/pull/33539>
 
 ## List of newly supported elements
 
@@ -212,6 +214,7 @@ Here is a list of those elements for which support has now been added.
 * [`<harp-pedals>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/harp-pedals/)
 * [`<hole>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/hole/)
 * [`<hole-closed>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/hole-closed/)
+* [`<image>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/image/)
 * [`<instrument-change>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/instrument-change/)
 * [`<inversion>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/inversion/)
 * [`<left-divider>`](https://www.w3.org/2021/06/musicxml40/musicxml-reference/elements/left-divider/)
