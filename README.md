@@ -197,7 +197,7 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/33539>
 * add import of coda and segno on barlines
 <https://github.com/musescore/MuseScore/pull/33760>
-* export all dynmics glyphs
+* export all dynamics glyphs
 <https://github.com/musescore/MuseScore/pull/33767>
 
 ## List of newly supported elements
