@@ -193,6 +193,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/33346>
 * add export of images
 <https://github.com/musescore/MuseScore/pull/33539>
+* add import of coda and segno on barlines
+<https://github.com/musescore/MuseScore/pull/33760>
 
 ## List of newly supported elements
 
