@@ -191,6 +191,8 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/33281>
 * add support for straight and wavy chord lines
 <https://github.com/musescore/MuseScore/pull/33346>
+* fix export of metronome markings
+<https://github.com/musescore/MuseScore/pull/33495>
 * add export of images
 <https://github.com/musescore/MuseScore/pull/33539>
 * add import of coda and segno on barlines
