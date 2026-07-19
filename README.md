@@ -203,7 +203,7 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/34163>
 * fix import for missing accidentlas
 <https://github.com/musescore/MuseScore/pull/34251>
-* exclude accidentals in tablature export
+* exclude accidentals while exporting tablature
 <https://github.com/musescore/MuseScore/pull/34257>
 
 
