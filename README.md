@@ -199,6 +199,13 @@ You will find more branches in active development on [my fork](https://github.co
 <https://github.com/musescore/MuseScore/pull/33760>
 * export all dynamics glyphs
 <https://github.com/musescore/MuseScore/pull/33767>
+* extend support for octave lines
+<https://github.com/musescore/MuseScore/pull/34163>
+* fix import for missing accidentlas
+<https://github.com/musescore/MuseScore/pull/34251>
+* exclude accidentals in tablature export
+<https://github.com/musescore/MuseScore/pull/34257>
+
 
 ## List of newly supported elements
 
